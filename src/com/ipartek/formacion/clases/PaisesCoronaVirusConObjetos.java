@@ -1,4 +1,4 @@
-package com.ipartek.formacion.bucles;
+package com.ipartek.formacion.clases;
 
 import java.util.Scanner;
 
