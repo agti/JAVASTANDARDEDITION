@@ -7,6 +7,7 @@ public class PaisesCoronavirus {
 		boolean[]paisesInfectados= {false,true,false,false};
 		int[] numeroinfectados= {0,5,0,0};
 		int i;
+		int Integrate;
 		
 		
 		for (i=0; i<paisesInfectados.length;i++){
@@ -27,6 +28,6 @@ public class PaisesCoronavirus {
 			System.out.println("en " + PAISES[i]+ " hay "+numeroinfectados[i]+" infectados");
 		}
 		
-         
+ 
 	}
 }
