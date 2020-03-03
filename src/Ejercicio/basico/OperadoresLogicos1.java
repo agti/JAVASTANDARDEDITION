@@ -1,6 +1,6 @@
 package Ejercicio.basico;
 
-public class OperadoresLogicos {
+public class OperadoresLogicos1 {
 	public static void main(String[] args) {
 		
 
