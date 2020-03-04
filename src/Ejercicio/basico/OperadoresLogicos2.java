@@ -9,6 +9,7 @@ public class OperadoresLogicos2 {
 		boolean z = false;
 		
 		System.out.println( w || y && x && z || z  );
+		System.out.println( x && !y && !y || !w && y);
 
 	}
 
